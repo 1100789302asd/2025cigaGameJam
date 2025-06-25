@@ -11,5 +11,6 @@ public class InstanceBase<T> : MonoBehaviour where T:class
             instacne = this as T;
         else
             print("error");
+        //test
     }
 }
